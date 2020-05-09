@@ -1,4 +1,4 @@
-package cs6367Project;
+package Project;
 import java.io.*;
 import java.util.*;
 import java.lang.instrument.Instrumentation;
