@@ -1,4 +1,4 @@
-package cs6367Project;
+package Project;
 import java.util.*;
 import java.util.HashMap;
 public class MainCoverage
