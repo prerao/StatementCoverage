@@ -1,4 +1,4 @@
-package cs6367Project;
+package Project;
 import java.lang.instrument.ClassFileTransformer;
 import java.security.*;
 import java.security.ProtectionDomain;
