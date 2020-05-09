@@ -1,4 +1,4 @@
-package cs6367Project;
+package Project;
 import java.io.*;
 import java.util.ArrayList;
 import java.util.Iterator;
