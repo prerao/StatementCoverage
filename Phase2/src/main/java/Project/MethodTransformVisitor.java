@@ -1,4 +1,4 @@
-package cs6367Project;
+package 7Project;
 
 
 import org.objectweb.asm.MethodVisitor;
